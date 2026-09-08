@@ -3,3 +3,8 @@
 .build/
 build/
 DerivedData/
+.swiftpm/
+*.xcuserstate
+backups/
+qianchuan-*.html
+qianchuan-*.json
